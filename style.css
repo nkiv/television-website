@@ -1,6 +1,10 @@
 p{
 text-align: center;
 }
+.right-allign{
+  float: right;
+
+}
 .button {
     font: bold 11px Arial;
     text-decoration: none;
